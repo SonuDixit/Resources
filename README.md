@@ -7,7 +7,7 @@
 1. [CS 294-112 at UC Berkeley Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
 * Deep Learning  
 1. Deeplearning.ai lectures at courseera
-2. Andrej Karpathy Lectures[CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  
+2. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html)  
 
 * Machine Learning
 1. [Pattern Recogition](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
