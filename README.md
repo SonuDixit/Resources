@@ -16,3 +16,5 @@
 * Optimization  
 1. [Boyd Stanford Optimization course](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622)
 
+* Maths
+1. [Stochastic Process](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
