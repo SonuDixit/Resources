@@ -18,3 +18,4 @@
 
 * Maths
 1. [Stochastic Process](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+2. [Discreete Stochastic Process introduction](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2063s)
