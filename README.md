@@ -23,4 +23,4 @@
 2. [Discreete Stochastic Process introduction](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2063s)
 
 * To do, Psychology
-1. [Robert Sapolsky, Huma Behavior Biology](https://www.youtube.com/playlist?list=PL150326949691B199)
+1. [Robert Sapolsky, Human Behavior Biology](https://www.youtube.com/playlist?list=PL150326949691B199)
