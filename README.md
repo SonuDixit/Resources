@@ -12,6 +12,7 @@
 2. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
 3. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
 4. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+5. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 * Machine Learning
 1. [Pattern Recogition](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
