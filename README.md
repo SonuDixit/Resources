@@ -5,14 +5,15 @@
 3. [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * Deep Reinforcement Learning Lectures
 1. [CS 294-112 at UC Berkeley Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)  [slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
-2. [CS 285 at UC Berkeley Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A). 
-3. [Stanford cs 234 winter2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+2. [UCB CS285 Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A). 
+3. [UCB CS287 Advanced Robotics](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
+4. [Stanford cs 234 winter2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * Deep Learning  
-1. Deeplearning.ai lectures at courseera
-2. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
-3. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
-4. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
-5. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+5. Deeplearning.ai lectures at courseera
+6. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
+7. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
+8. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+9. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 * Machine Learning
 1. [Pattern Recogition](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
