@@ -25,8 +25,9 @@
 1. [MIT topics with applications in finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 2. [Discreete Stochastic Process introduction](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2063s)
 
-* To do, Psychology
-1. [Robert Sapolsky, Human Behavior Biology](https://www.youtube.com/playlist?list=PL150326949691B199)  
-
 * Stanford Courses, link taken from Karpathy Tweet
 1. [sheets](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/edit#gid=0)
+
+* Misc
+1. [Robert Sapolsky, Human Behavior Biology](https://www.youtube.com/playlist?list=PL150326949691B199)  
+2. [The Human Brain, UG course OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/lecture-videos/index.htm)
