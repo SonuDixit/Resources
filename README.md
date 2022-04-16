@@ -8,12 +8,13 @@
 2. [UCB CS285 Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A). 
 3. [UCB CS287 Advanced Robotics](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
 4. [Stanford cs 234 winter2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+5. Dimitri Bertsekas Book and Lectures (http://web.mit.edu/dimitrib/www/RLbook.html)
 * Deep Learning  
-5. Deeplearning.ai lectures at courseera
-6. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
-7. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
-8. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
-9. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+6. Deeplearning.ai lectures at courseera
+7. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
+8. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
+9. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+10. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 * Machine Learning
 1. [Pattern Recogition](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
