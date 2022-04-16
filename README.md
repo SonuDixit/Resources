@@ -5,8 +5,8 @@
 3. [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * Deep Reinforcement Learning Lectures
 1. [CS 294-112 at UC Berkeley Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)  [slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
-2. [UCB CS285 Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A). 
-3. [UCB CS287 Advanced Robotics](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
+2. [UCB CS285 Deep Reinforcement Learning - Sergey Levine](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A). 
+3. [UCB CS287 Advanced Robotics - Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
 4. [Stanford cs 234 winter2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 5. Dimitri Bertsekas Book and Lectures (http://web.mit.edu/dimitrib/www/RLbook.html)
 * Deep Learning  
