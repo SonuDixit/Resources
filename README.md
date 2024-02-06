@@ -10,17 +10,18 @@
 4. [Stanford cs 234 winter2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 5. Dimitri Bertsekas Book and Lectures (http://web.mit.edu/dimitrib/www/RLbook.html)
 * Deep Learning  
-6. Deeplearning.ai lectures at courseera
-7. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
-8. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
-9. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
-10. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+1. Deeplearning.ai lectures at courseera
+2. [Andrej Karpathy Lectures cs231n 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [slides](http://cs231n.stanford.edu/2016/syllabus.html) 
+3. [CMU Lectures 11-785 2018](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa)
+4. [UCB CS182 Deep Learning Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+5. [UCB CS294 2020 Deep Unsupervised Learning Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 * Machine Learning
-1. [Pattern Recogition](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
+1. [Pattern Recogition, PS Sastry IISc](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
 
 * Optimization  
 1. [Boyd Stanford Optimization course](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622)
+2. [Numerical Optimisation, Shirish Shevade IISc ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
 
 * Maths
 1. [MIT topics with applications in finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
